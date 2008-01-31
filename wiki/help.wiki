@@ -29,4 +29,4 @@
 == 三、发送区功能 ==
   发送指令到串口。
  * 16进制。如勾上则按16进制进行发送，否则是按二进制发送。
- * 脚本。 勾上则脚本指令发送，脚本的相关编写方法请见[http://lsdcomm.googlecode.com/wiki/scripthelp]
+ * 脚本。 勾上则脚本指令发送，脚本的相关编写方法请见[http://code.google.com/p/lsdcomm/wiki/scripthelp]
